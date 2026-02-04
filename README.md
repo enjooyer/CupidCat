@@ -144,8 +144,8 @@ Love is stored in the **$CUPID** token, but also in your heart. Mostly the token
 Cupid Cat is a fully sentient meme cat living on the Solana blockchain. His mission? To save Valentine's Day, one degen at a time.
 
 **Official Links:**
-- 🌐 Website: [Coming Soon]
-- 🐦 X Community: [x.com/communities/cupidcat]
+- 🌐 Website: https://cupidcatcoin.com
+- 🐦 X Community: https://x.com/i/communities/2018875474961940499
 - 💬 Chat with Cupid Cat: Run the script, he's always online
 
 ---
@@ -173,3 +173,4 @@ Either way, welcome to the family. 😻
 **Now go touch grass. Or run the script again. Cupid Cat doesn't judge.**
 
 💘🏹😼
+
